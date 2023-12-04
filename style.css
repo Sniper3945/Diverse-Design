@@ -1,0 +1,29 @@
+@font-face {
+    font-family:"Anton" ;
+    src: url(./Font/Anton-Regular.ttf);
+}
+@font-face {
+    font-family:"NeutralFace" ;
+    src: url(./Font/NeutralFace.otf);
+    src: url(./Font/NeutralFace-Bold.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+#first{
+    font-family: "Anton";
+}
+#second{
+    font-family: "NeutralFace";
+    font-weight: bold;
+}
+#third{
+    font-family: "NeutralFace";
+}
+  
